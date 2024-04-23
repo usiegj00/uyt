@@ -4,7 +4,7 @@ Every-word is a simple ruby program to create "every word" twitter bots in the s
 
 # Easy Installation via Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.build.io/deploy/button.svg)](https://build.io/deploy)
 
 Click the Heroku deploy button above, and fill in the required variables with the corresponding API keys from Wordnik and Twitter, then choose your word.
 
